@@ -1,2 +1,2 @@
-# :octocat: Workshop Git | GitHub
+# Workshop Git | GitHub
 

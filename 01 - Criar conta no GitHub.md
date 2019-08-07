@@ -1,4 +1,4 @@
-# :octocat: Passo 1 - Criar conta no GitHub
+# Passo 1 - Criar conta no GitHub
 
 Caso você ainda não possua uma conta no GitHub, acesse o [site do GitHub](https://github.com/) para fazer o seu cadastro.
 
