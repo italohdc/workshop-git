@@ -22,4 +22,6 @@ Este repositório contém um guia do workshop sobre Git que irá acontecer no Hu
 
 - Trabalhando em conjunto no Git
   - Criar fork deste repositório
-  - 
+  - Abrir a pasta deste repositório
+  - Criar novo arquivo com o seu nome
+  - Criar Pull-Request no GitHub
